@@ -1,0 +1,15 @@
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.A51Page.resources
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PlayfairCipherPage.resources
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RSAPage.resources
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CFBPage.resources
+D:\desktopFolderi\faks\sem7\zastita_informacija\projekti\kaca i ja se sprdamo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SHA256Pagecs.resources
